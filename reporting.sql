@@ -1,11 +1,11 @@
 -- phpMyAdmin SQL Dump
--- version 4.5.4.1deb2ubuntu2.1
--- http://www.phpmyadmin.net
+-- version 4.6.6deb5
+-- https://www.phpmyadmin.net/
 --
--- Host: localhost
--- Generation Time: Feb 21, 2019 at 04:10 PM
--- Server version: 5.7.25-0ubuntu0.16.04.2
--- PHP Version: 7.0.33-0ubuntu0.16.04.1
+-- Host: localhost:3306
+-- Generation Time: Apr 23, 2019 at 03:02 PM
+-- Server version: 5.7.25-0ubuntu0.18.04.2
+-- PHP Version: 7.2.17-1+ubuntu18.04.1+deb.sury.org+3
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET time_zone = "+00:00";
@@ -17,7 +17,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Database: `indihub`
+-- Database: `reporting`
 --
 
 -- --------------------------------------------------------

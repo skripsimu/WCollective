@@ -3,7 +3,7 @@ class DBController {
 	private $host = "localhost";
 	private $user = "root";
 	private $password = "password";
-	private $database = "indihub2";
+	private $database = "reporting";
 	private $conn;
 	
 	function __construct() {
