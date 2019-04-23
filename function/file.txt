@@ -1,0 +1,4 @@
+host = localhost
+username = root
+password = user1
+dbname = indihub
